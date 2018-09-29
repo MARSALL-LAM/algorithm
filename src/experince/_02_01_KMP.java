@@ -8,7 +8,7 @@ import java.util.ArrayList;
  * 笔试经历02：判断字符串T中包含多少个S字符串
  * 题目：KMP
  */
-public class _02_1_KMP {
+public class _02_01_KMP {
     /**
      * 分析：先用一个数组记录S中每个位置与前面部分的相同数
      * 例如S为"abcab",则next[0]=0,next[1]=0,next[2]=0,next[3]=1,next[4]=2;
@@ -64,7 +64,7 @@ public class _02_1_KMP {
     }
 
     public static void main(String[] args) {
-        _02_1_KMP a = new _02_1_KMP();
+        _02_01_KMP a = new _02_01_KMP();
         String T = "i am marsall lam";
         String S = "am";
         a.getNext(S.toCharArray());

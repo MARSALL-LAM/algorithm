@@ -10,7 +10,7 @@ import java.util.PriorityQueue;
  * 0000002,李四,673
  * 规定前%15为重本分数，求出重本线
  */
-public class _01_1_FindClassAScore {
+public class _01_01_FindClassAScore {
     static int FindClassAScore(File filePath, float percent) throws IOException {
         PriorityQueue<Integer> priorityQueue = new PriorityQueue<>();
         try (BufferedReader br = new BufferedReader(new FileReader(filePath))) {

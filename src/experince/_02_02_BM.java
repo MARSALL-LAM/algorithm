@@ -8,7 +8,7 @@ import java.util.ArrayList;
  * 笔试经历02：判断字符串T中包含多少个S字符串
  * 题目：BM
  */
-public class _02_2_BM {
+public class _02_02_BM {
     /**
      * 分析：从匹配字符串右往左匹配，用right数组记录匹配字符串中每种字符的最右位置，当不匹配时通过right[]来使i移动skip位
      *      当原字符串T和匹配字符串S某位不匹配时，当T该位字符存在于S中则skip = j - right[T.charAt(i+j)]
@@ -58,7 +58,7 @@ public class _02_2_BM {
     }
 
     public static void main(String[] args) {
-        _02_2_BM a = new _02_2_BM();
+        _02_02_BM a = new _02_02_BM();
         String T = "i am marsall lam";
         String S = "am";
         a.search(T, S);

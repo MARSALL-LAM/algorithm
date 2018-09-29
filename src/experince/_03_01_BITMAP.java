@@ -5,7 +5,7 @@ package experince;
  * Date: Create in 19:00 2018/9/26
  * 算法经历03 BITMAP
  */
-public class _03_1_BITMAP {
+public class _03_01_BITMAP {
     /**
      * 无符号int最大值可达到40多亿
      * bitmap[n/32][32]
@@ -25,7 +25,7 @@ public class _03_1_BITMAP {
     }
 
     public static void main(String[] args){
-        _03_1_BITMAP a = new _03_1_BITMAP();
+        _03_01_BITMAP a = new _03_01_BITMAP();
         a.init(2000000000);
         for (int i = 0; i <= 1000000000;i++){
             a.put(i);

@@ -18,4 +18,5 @@
     <H4> Merge _05_07_Merge</H4> https://github.com/MARSALL-LAM/algorithm/blob/master/src/experince/_05_07_Merge.java
     <H4> Count _05_08_Count</H4> https://github.com/MARSALL-LAM/algorithm/blob/master/src/experince/_05_08_Count.java
     <H4> Radix _05_09_Radix</H4> https://github.com/MARSALL-LAM/algorithm/blob/master/src/experince/_05_09_Radix.java
-----------
+<H3>算法经历06 字符串最长回文--Manacher算法</H3>
+    <H4> Manacher _06_01_Manacher</H4> https://github.com/MARSALL-LAM/algorithm/blob/master/src/experince/_06_01_Manacher.java

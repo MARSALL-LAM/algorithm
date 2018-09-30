@@ -27,6 +27,7 @@ public class _05_07_Merge {
     }
 
     private static void Merge(int[] a, int start, int middle, int end, int[] temp) {
+        if (a[middle] <= a[middle + 1]) return;
         int mark = start;
         int left = start;
         int right = middle + 1;

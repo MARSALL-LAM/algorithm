@@ -1,6 +1,6 @@
 <H2>算法经历</H2>
-<H3>算法经历01 找出重本线</H3> 
-    <H4>_01_01_FindClassAScore</H4> https://github.com/MARSALL-LAM/algorithm/blob/master/src/experince/_01_01_FindClassAScore.java
+[算法经历01 找出重本线
+    _01_01_FindClassAScore](https://github.com/MARSALL-LAM/algorithm/blob/master/src/experince/_01_01_FindClassAScore.java)
 <H3>算法经历02 找出字符串T中有多少个S字符串</H3>
     <H4> KMP _02_01_KMP</H4> https://github.com/MARSALL-LAM/algorithm/blob/master/src/experince/_02_01_KMP.java 
     <H4> BM _02_02_BM </H4>https://github.com/MARSALL-LAM/algorithm/blob/master/src/experince/_02_02_BM.java

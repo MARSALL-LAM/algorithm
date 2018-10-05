@@ -1,6 +1,8 @@
 <H2>算法经历</H2>
-;<H3>算法经历01 找出重本线<H3>
-;    <H4>_01_01_FindClassAScore<H4>https://github.com/MARSALL-LAM/algorithm/blob/master/src/experince/_01_01_FindClassAScore.java
+:fafsafasfasfasfas
+;asfafasf
+<H3>算法经历01 找出重本线<H3>
+    <H4>_01_01_FindClassAScore<H4>https://github.com/MARSALL-LAM/algorithm/blob/master/src/experince/_01_01_FindClassAScore.java
     <a href="https://github.com/MARSALL-LAM/algorithm/blob/master/src/experince/_01_01_FindClassAScore.java" target="_blank">算法经历01 找出重本线
                                                                                                                                  _01_01_FindClassAScore</a>
 <H3>算法经历02 找出字符串T中有多少个S字符串</H3>
